@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right, #161F30, #173540);
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(6, 8, 12, 0.576);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color: #3D3D3D;
+    text-align: center;
+    text-shadow: 1px 1px 2px #22222267;
+}
+
+h2 {
+    color: #739921;
+}
+
+p {
+    text-align: justify;
+}
